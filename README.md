@@ -2,6 +2,8 @@
 
 Minimal project demonstrating a grpc_web request from a Flutter Web project.
 
+Works with the echo-sample server from https://github.com/grpc/grpc-web.
+
 The proto definitions can be recompiled with:
 
 ```sh
