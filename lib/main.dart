@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               '$_message',
-              style: Theme.of(context).textTheme.display1,
+              style: Theme.of(context).textTheme.displaySmall,
             ),
           ],
         ),
